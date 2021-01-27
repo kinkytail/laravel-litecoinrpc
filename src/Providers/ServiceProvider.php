@@ -2,7 +2,7 @@
 
 namespace Kinky\Litecoin\Providers;
 
-use Weisskpub\Litecoin\Client as LitecoinClient;
+use Kinky\Litecoin\Client as LitecoinClient;
 use Illuminate\Support\ServiceProvider as IlluminateServiceProvider;
 
 class ServiceProvider extends IlluminateServiceProvider
